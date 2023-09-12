@@ -1,0 +1,21 @@
+.title {
+  margin: 0;
+  margin-bottom: 64px;
+  padding: 0;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 115%;
+  text-align: center;
+}
+
+.title--big {
+  margin-bottom: 24px;
+  font-size: 44px;
+  text-align: start;
+}
+
+.title--small {
+  margin-bottom: 0;
+  font-size: 18px;
+  text-align: start;
+}
